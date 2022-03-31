@@ -1,0 +1,9 @@
+.detail{
+    text-align: center;
+    color: rgb(228, 180, 180);
+}
+.detail img {
+    width: 100%;
+    border-radius: 2.4rem;
+
+}
